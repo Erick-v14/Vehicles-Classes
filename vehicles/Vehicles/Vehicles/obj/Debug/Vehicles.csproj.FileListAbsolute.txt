@@ -1,0 +1,7 @@
+C:\Users\WWStudent\Desktop\code files\Microsoft Press\VCSBS\Chapter 12\Vehicles\Vehicles\bin\Debug\Vehicles.exe.config
+C:\Users\WWStudent\Desktop\code files\Microsoft Press\VCSBS\Chapter 12\Vehicles\Vehicles\bin\Debug\Vehicles.exe
+C:\Users\WWStudent\Desktop\code files\Microsoft Press\VCSBS\Chapter 12\Vehicles\Vehicles\bin\Debug\Vehicles.pdb
+C:\Users\WWStudent\Desktop\code files\Microsoft Press\VCSBS\Chapter 12\Vehicles\Vehicles\obj\Debug\Vehicles.csprojAssemblyReference.cache
+C:\Users\WWStudent\Desktop\code files\Microsoft Press\VCSBS\Chapter 12\Vehicles\Vehicles\obj\Debug\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\WWStudent\Desktop\code files\Microsoft Press\VCSBS\Chapter 12\Vehicles\Vehicles\obj\Debug\Vehicles.exe
+C:\Users\WWStudent\Desktop\code files\Microsoft Press\VCSBS\Chapter 12\Vehicles\Vehicles\obj\Debug\Vehicles.pdb
